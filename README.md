@@ -3,7 +3,7 @@
 # OBA design activiteiten landingspagina
 
 ## Het design van Emona
-<!-- Voeg een link toe naar Github Pages 🌐--> http://127.0.0.1:5500/index.html
+<!-- Voeg een link toe naar Github Pages 🌐--> 
 <!-- Voeg een mooie poster visual toe 📸 --> <img width="1440" alt="Schermafbeelding 2021-11-09 om 16 36 43" src="https://user-images.githubusercontent.com/90447045/140955100-2ab5886e-1b05-432b-9a4f-2d27c858ed16.png">
 
 Een vernieuwing in design voor de OBA website. Nu heb je een mooier een duidelijker beeld. Het doel is het overzichtelijk te houden maar nog steeds druk. Met de OG OBA header + Het agenda design + Het horizontale swipe optie van de activiteiten die die dag dan plaats vinden.
