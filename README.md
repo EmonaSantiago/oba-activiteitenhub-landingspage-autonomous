@@ -24,6 +24,8 @@ Mijn rol daarin was dat ik voor de toegankelijkheid moest zorgen. Hierbij heb me
 ## Kenmerken
 * 🟣 CSS
 * 🔵 HTML
+* 🎨 Figma
+* 🔴 Powerpoint
 ## Installatie
 
 ## Gebruik
